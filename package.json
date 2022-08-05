@@ -1,0 +1,23 @@
+{
+  "name": "TestBot",
+  "version": "1.0.0",
+  "description": "A bot which makes Discord server easy to use",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "PlayerIO": "PlayerIOClient.minified.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "author": "2233#7233",
+  "license": "GNU General Public License",
+  "homepage": "https://github.com/An-Idiots-Guide/guidebot#readme",
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "request": "2.87.0",
+    "xml2js": "0.4.19",
+    "xmlhttprequest": "1.8.0",
+    "xrequire": "^0.4.0"
+  }
+}
