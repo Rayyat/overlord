@@ -41,7 +41,7 @@ let cdseconds = 3;
 let maindb = "TestBot";
 let guilddb = "Guilds";
 PlayerIO.authenticate(
-    'space-flight-0cgjkoqsbkm2pwvdb50loq',    //Game id
+    'GAME ID HERE',    //Game id
     'public',                       //Connection id
     {  
 	//register: true,
